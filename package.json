@@ -2,6 +2,7 @@
   "name": "star-db",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ramatov-zulfikor.github.io/star-wars-db/",
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.5.2",
@@ -13,6 +14,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
   }
 }
