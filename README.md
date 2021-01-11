@@ -1,6 +1,6 @@
 # API I used
 
-In the project I used this [API](https://swapi.dev/).
+In the project I used this [API](https://swapi.dev/).\
 And this [posters](https://starwars-visualguide.com/#/).
 
 # Getting Started with Create React App
